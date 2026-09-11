@@ -1,7 +1,5 @@
 # Leistungsnachweis: Grundlagen der kausalen Inferenz ---------------------
 
-
-
 # Laden relevanter Packages -----------------------------------------------
 
 # Einlesen von ALLBUS im dta-Format
