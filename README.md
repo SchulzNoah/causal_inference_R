@@ -1,4 +1,5 @@
-# Causal Analysis of Parental Education on Income (ALLBUS 2021, ZA5280)
+# Causal Analysis of Parental Education on Income
+## ALLBUS 2021, ZA5280
 
 This repository contains an empirical causal inference analysis investigating the effect of parental education on individual income in Germany using the **ALLBUS 2021 (ZA5280)** survey dataset. 
 
