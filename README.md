@@ -18,7 +18,7 @@ The analytical pipeline addresses missing data via **Multiple Imputation by Chai
 3. **Causal Inference & Modeling**:
    - **Naive & Adjusted OLS**: Pooled (multiple) linear regressions without matching.
    - **Propensity Score Matching**: 1:1 Nearest-Neighbor PSM.
-   - **Balance Diagnostics**: Evaluation of Standardized Mean Differences ($\text{SMD} < 0.10$) across all 15 imputed datasets.
+   - **Balance Diagnostics**: Evaluation of absolute Standardized Mean Differences ($\text{|SMD|} < 0.10$) across all 15 imputed datasets.
    - **Outcome Estimation**: Pooled OLS regressions on matched datasets.
 
 ---
